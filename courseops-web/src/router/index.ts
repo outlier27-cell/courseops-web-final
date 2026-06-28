@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory, createWebHistory } from 'vue-router'
 import { getApiToken } from '../services/courseopsApi'
 
 const PublicLanding = () => import('../components/landing/PublicLanding.vue')
@@ -12,7 +12,7 @@ const OperationalInsights = () => import('../components/analytics/OperationalIns
 const ActivityTimeline = () => import('../components/logs/ActivityTimeline.vue')
 
 export const router = createRouter({
-  history: createWebHistory(),
+  history: import.meta.env.BASE_URL === '/courseops-web-final/' ? createWebHashHistory(import.meta.env.BASE_URL) : createWebHistory(),
   routes: [
     { path: '/', name: 'landing', component: PublicLanding },
     { path: '/login', name: 'login', component: LoginPage },
