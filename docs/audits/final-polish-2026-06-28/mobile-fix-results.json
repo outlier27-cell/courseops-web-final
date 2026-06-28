@@ -1,0 +1,38 @@
+[
+  {
+    "name": "04-projects-mobile-fixed",
+    "url": "http://127.0.0.1:5173/app/projects",
+    "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\04-projects-mobile-fixed.png",
+    "hasFetchError": false,
+    "metrics": {
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "overflowX": false,
+      "bad": []
+    }
+  },
+  {
+    "name": "06-materials-mobile-fixed",
+    "url": "http://127.0.0.1:5173/app/tasks",
+    "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\06-materials-mobile-fixed.png",
+    "hasFetchError": false,
+    "metrics": {
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "overflowX": false,
+      "bad": []
+    }
+  },
+  {
+    "name": "07-analytics-mobile-fixed",
+    "url": "http://127.0.0.1:5173/app/analytics",
+    "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\07-analytics-mobile-fixed.png",
+    "hasFetchError": false,
+    "metrics": {
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "overflowX": false,
+      "bad": []
+    }
+  }
+]

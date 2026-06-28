@@ -1,0 +1,800 @@
+{
+  "capturedAt": "2026-06-28T12:32:53.280Z",
+  "desktop": [
+    {
+      "name": "01-landing",
+      "label": "desktop",
+      "currentUrl": "http://127.0.0.1:5173/",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\01-landing-desktop.png",
+      "hasDataError": false,
+      "textHead": "UIBE CourseOps\n产品证明\n产品能力\n使用流程\n进入工作台\nCOURSE PROJECT OPERATING SYSTEM\n让课程项目像产品一样运转。\n\n从项目创建、材料流转、教师反馈到审计日志，CourseOps 把期末项目变成一条可展示、可协作、可追踪的工作流。\n\n进入工作台\n查看课程项目\n课程项目\n材",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -22,
+            "right": 1463,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -177,
+            "right": 699,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 839,
+            "right": 1748,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-a",
+            "left": -144,
+            "right": 403,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-b",
+            "left": 1064,
+            "right": 1625,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 1440,
+        "overflowX": false,
+        "scrollWidth": 1440
+      }
+    },
+    {
+      "name": "02-login-or-app",
+      "label": "desktop",
+      "currentUrl": "http://127.0.0.1:5173/app",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\02-login-or-app-desktop.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nINTELLIGENT COCKPIT\n张同学，今天",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -22,
+            "right": 1463,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -176,
+            "right": 696,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 837,
+            "right": 1748,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-a",
+            "left": -144,
+            "right": 403,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-b",
+            "left": 1064,
+            "right": 1627,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 1440,
+        "overflowX": false,
+        "scrollWidth": 1440
+      }
+    },
+    {
+      "name": "03-workspace",
+      "label": "desktop",
+      "currentUrl": "http://127.0.0.1:5173/app",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\03-workspace-desktop.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nINTELLIGENT COCKPIT\n张同学，今天",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -22,
+            "right": 1463,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -175,
+            "right": 695,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 836,
+            "right": 1748,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-a",
+            "left": -144,
+            "right": 403,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-b",
+            "left": 1064,
+            "right": 1627,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 1440,
+        "overflowX": false,
+        "scrollWidth": 1440
+      }
+    },
+    {
+      "name": "04-projects",
+      "label": "desktop",
+      "currentUrl": "http://127.0.0.1:5173/app/projects",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\04-projects-desktop.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nCOURSE PROJECT PLAZA\n课程项目中",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -22,
+            "right": 1463,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -177,
+            "right": 699,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 839,
+            "right": 1748,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-a",
+            "left": -144,
+            "right": 403,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-b",
+            "left": 1064,
+            "right": 1626,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 1440,
+        "overflowX": false,
+        "scrollWidth": 1440
+      }
+    },
+    {
+      "name": "05-project-detail",
+      "label": "desktop",
+      "currentUrl": "http://127.0.0.1:5173/app/projects/p-web-final",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\05-project-detail-desktop.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nWEB 应用开发\nWeb 期末项目\n\n完成一个具备项",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -22,
+            "right": 1463,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -179,
+            "right": 703,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 843,
+            "right": 1749,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-a",
+            "left": -144,
+            "right": 403,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-b",
+            "left": 1064,
+            "right": 1627,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 1440,
+        "overflowX": false,
+        "scrollWidth": 1440
+      }
+    },
+    {
+      "name": "06-materials",
+      "label": "desktop",
+      "currentUrl": "http://127.0.0.1:5173/app/tasks",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\06-materials-desktop.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\n待准备\n待提交\n已提交\n需修改\n已通过\nMATERI",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -22,
+            "right": 1463,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -175,
+            "right": 694,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 836,
+            "right": 1748,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-a",
+            "left": -144,
+            "right": 403,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-b",
+            "left": 1064,
+            "right": 1625,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 1440,
+        "overflowX": false,
+        "scrollWidth": 1440
+      }
+    },
+    {
+      "name": "07-analytics",
+      "label": "desktop",
+      "currentUrl": "http://127.0.0.1:5173/app/analytics",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\07-analytics-desktop.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nOPERATIONAL INSIGHTS\n本周 3 ",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -22,
+            "right": 1463,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -179,
+            "right": 704,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 843,
+            "right": 1749,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-a",
+            "left": -144,
+            "right": 403,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-b",
+            "left": 1064,
+            "right": 1625,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 1440,
+        "overflowX": false,
+        "scrollWidth": 1440
+      }
+    },
+    {
+      "name": "08-logs",
+      "label": "desktop",
+      "currentUrl": "http://127.0.0.1:5173/app/logs",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\08-logs-desktop.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nACTIVITY TIMELINE\n动态记录\n\n查看",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -22,
+            "right": 1463,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -178,
+            "right": 700,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 840,
+            "right": 1748,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-a",
+            "left": -144,
+            "right": 403,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-blob shader-b",
+            "left": 1064,
+            "right": 1625,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 1440,
+        "overflowX": false,
+        "scrollWidth": 1440
+      }
+    }
+  ],
+  "mobile": [
+    {
+      "name": "01-landing",
+      "label": "mobile",
+      "currentUrl": "http://127.0.0.1:5173/",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\01-landing-mobile.png",
+      "hasDataError": false,
+      "textHead": "UIBE CourseOps\n产品证明\n产品能力\n使用流程\n进入工作台\nCOURSE PROJECT OPERATING SYSTEM\n让课程项目像产品一样运转。\n\n从项目创建、材料流转、教师反馈到审计日志，CourseOps 把期末项目变成一条可展示、可协作、可追踪的工作流。\n\n进入工作台\n查看课程项目\nMateri",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -6,
+            "right": 397,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -58,
+            "right": 199,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 213,
+            "right": 487,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 390,
+        "overflowX": false,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "02-login-or-app",
+      "label": "mobile",
+      "currentUrl": "http://127.0.0.1:5173/app",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\02-login-or-app-mobile.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nINTELLIGENT COCKPIT\n张同学，今天有 3 项材料需要处",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -6,
+            "right": 397,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -57,
+            "right": 198,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 212,
+            "right": 487,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 390,
+        "overflowX": false,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "03-workspace",
+      "label": "mobile",
+      "currentUrl": "http://127.0.0.1:5173/app",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\03-workspace-mobile.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nINTELLIGENT COCKPIT\n张同学，今天有 3 项材料需要处",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -6,
+            "right": 397,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -57,
+            "right": 198,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 212,
+            "right": 487,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 390,
+        "overflowX": false,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "04-projects",
+      "label": "mobile",
+      "currentUrl": "http://127.0.0.1:5173/app/projects",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\04-projects-mobile.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nCOURSE PROJECT PLAZA\n课程项目中心\n\n集中查看课程、",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -6,
+            "right": 397,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -57,
+            "right": 197,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 212,
+            "right": 487,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "",
+            "left": 228,
+            "right": 419,
+            "tag": "HEADER",
+            "text": "Web 应用开发Web 期末项目临近截止"
+          },
+          {
+            "className": "risk-badge medium",
+            "left": 359,
+            "right": 419,
+            "tag": "SPAN",
+            "text": "临近截止"
+          },
+          {
+            "className": "",
+            "left": 228,
+            "right": 419,
+            "tag": "P",
+            "text": "完成一个具备项目管理、材料流转和操作审计能力的课程项目平台。"
+          },
+          {
+            "className": "project-board-main",
+            "left": 228,
+            "right": 419,
+            "tag": "DIV",
+            "text": "76%健康度负责人：张同学阶段：材料完善截止：2026-06-25团队完成度：68%"
+          },
+          {
+            "className": "project-board-facts",
+            "left": 386,
+            "right": 419,
+            "tag": "DIV",
+            "text": "负责人：张同学阶段：材料完善截止：2026-06-25团队完成度：68%"
+          }
+        ],
+        "innerWidth": 390,
+        "overflowX": false,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "05-project-detail",
+      "label": "mobile",
+      "currentUrl": "http://127.0.0.1:5173/app/projects/p-web-final",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\05-project-detail-mobile.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nWEB 应用开发\nWeb 期末项目\n\n完成一个具备项目管理、材料流转和操",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -18,
+            "right": 389,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -58,
+            "right": 199,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 215,
+            "right": 485,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 390,
+        "overflowX": false,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "06-materials",
+      "label": "mobile",
+      "currentUrl": "http://127.0.0.1:5173/app/tasks",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\06-materials-mobile.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\n待准备\n待提交\n已提交\n需修改\n已通过\nMATERIAL WORKFLO",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": 3,
+            "right": 411,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -59,
+            "right": 199,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 211,
+            "right": 489,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "workflow-orbit",
+            "left": -24,
+            "right": 336,
+            "tag": "DIV",
+            "text": "待准备待提交已提交需修改已通过"
+          },
+          {
+            "className": "orbit-track",
+            "left": -10,
+            "right": 322,
+            "tag": "DIV",
+            "text": ""
+          },
+          {
+            "className": "workflow-column",
+            "left": 262,
+            "right": 476,
+            "tag": "SECTION",
+            "text": "待提交 1源代码压缩包待提交Web 期末项目张同学2026-06-26尚未上传文件 暂无文件ZIP 1 条反馈整理完成后即可提交统一命名和格式后直接进入上传。"
+          },
+          {
+            "className": "",
+            "left": 274,
+            "right": 464,
+            "tag": "H3",
+            "text": "待提交 1"
+          },
+          {
+            "className": "",
+            "left": 438,
+            "right": 462,
+            "tag": "SPAN",
+            "text": "1"
+          }
+        ],
+        "innerWidth": 390,
+        "overflowX": false,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "07-analytics",
+      "label": "mobile",
+      "currentUrl": "http://127.0.0.1:5173/app/analytics",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\07-analytics-mobile.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nOPERATIONAL INSIGHTS\n本周 3 个课程项目存在材料缺",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -6,
+            "right": 397,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -58,
+            "right": 199,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 213,
+            "right": 487,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "",
+            "left": 65,
+            "right": 527,
+            "tag": "DIV",
+            "text": "Operational Insights本周 3 个课程项目存在材料缺口围绕你的课程项目生成可执行的材料提交建议。"
+          },
+          {
+            "className": "",
+            "left": 65,
+            "right": 527,
+            "tag": "H1",
+            "text": "本周 3 个课程项目存在材料缺口"
+          },
+          {
+            "className": "",
+            "left": 65,
+            "right": 527,
+            "tag": "P",
+            "text": "围绕你的课程项目生成可执行的材料提交建议。"
+          },
+          {
+            "className": "insight-summary",
+            "left": 65,
+            "right": 425,
+            "tag": "ASIDE",
+            "text": "推荐优先处理数据库原理完成度偏低，ER 图和源码压缩包缺口最高，建议先发提醒再进入材料流转。进入材料流转"
+          },
+          {
+            "className": "",
+            "left": 82,
+            "right": 408,
+            "tag": "P",
+            "text": "数据库原理完成度偏低，ER 图和源码压缩包缺口最高，建议先发提醒再进入材料流转。"
+          }
+        ],
+        "innerWidth": 390,
+        "overflowX": false,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "name": "08-logs",
+      "label": "mobile",
+      "currentUrl": "http://127.0.0.1:5173/app/logs",
+      "file": "D:\\Yjw\\UIBE课程\\课程\\Web-Final\\docs\\audits\\final-polish-2026-06-28\\screenshots\\08-logs-mobile.png",
+      "hasDataError": false,
+      "textHead": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nACTIVITY TIMELINE\n动态记录\n\n查看与你相关的提交、反馈",
+      "metrics": {
+        "bad": [
+          {
+            "className": "global-depth-scene ready",
+            "left": -6,
+            "right": 397,
+            "tag": "CANVAS",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-a",
+            "left": -58,
+            "right": 199,
+            "tag": "I",
+            "text": ""
+          },
+          {
+            "className": "shader-current current-b",
+            "left": 213,
+            "right": 487,
+            "tag": "I",
+            "text": ""
+          }
+        ],
+        "innerWidth": 390,
+        "overflowX": false,
+        "scrollWidth": 390
+      }
+    }
+  ]
+}
