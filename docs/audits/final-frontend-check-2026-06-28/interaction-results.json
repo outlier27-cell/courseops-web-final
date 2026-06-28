@@ -1,0 +1,31 @@
+[
+  {
+    "name": "search",
+    "hasPalette": true,
+    "overflowX": false,
+    "query": "说明书",
+    "visibleText": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n演示数据\n2026 春季学期\n通知\n2\n学生视角\n教师视角\n管理员视角\n张同学\n当前状态\n后端未连通，页面正在使用本地演示数据。\nhttp://127.0.0.1:8080/api\nINTELLIGENT COCKPIT\n张同学，今天有 3 项材料需要处理\n\n优先处理被退回、临期和待提交材料，系统会把最紧急的事项推到前面。\n\n进入材料流转\n3\n待处理材料\n2\n风险项目\n2\n未读通知\n68%\n材料完成率\nPRIORITY STACK\n今日待办\nP1\n说明书正文\n张同学 · 2026-06-25 · 教师反馈未处理\n需修改\nP2\n源代码压缩包\n张同学 · 2026-06-26 · 尚未上传文件\n待提交\nP3\n数据库 ER 图\n张同学 · 2026-06-24 · 距离截止不足 24 小时\n待准备\nPROJECT PULSE\n我的课程项目\nWeb 期末项目材料完善 · 2026-06-25\n临近截止\n数据库实验报告待补交 · 2026-06-24\n高风险\n课程论文阶段稿教师反馈处理 · 2026-06-28\n正常\n智能提醒\n说明书正文需要优先修改\n\n先处理教师反馈，再重新上传最新版。\n\n立即处理\nCommand Center\n说明书\nEsc 关闭 · ↑↓ 选择 · Enter 打开\n材料\n材料\n说明书正文\n工作台 / 材料流转 · 张同学 / DOCX / 2026-06-25\n日志\n日志\n提交反馈 / 说明书正文\n审计日志 · 张老师 / 2026-06-23 10:20\n日志\n上传文件 / 说明书正文\n审计日志 · 张同学 / 2026-06-23 10:12",
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/11-search-interaction-desktop.png"
+  },
+  {
+    "name": "notification",
+    "buttonCount": 1,
+    "overflowX": false,
+    "popovers": [
+      "通知",
+      "通知中心0 条未读 · 聚焦材料、反馈和截止风险 全部已读 全部 0截止提醒 0教师反馈 0提交动态 0风险提醒 0系统通知 0暂无通知材料提交、教师反馈和风险提醒会出现在这里。",
+      "通知中心0 条未读 · 聚焦材料、反馈和截止风险 全部已读 全部 0截止提醒 0教师反馈 0提交动态 0风险提醒 0系统通知 0暂无通知材料提交、教师反馈和风险提醒会出现在这里。",
+      "全部 0截止提醒 0教师反馈 0提交动态 0风险提醒 0系统通知 0"
+    ],
+    "visibleText": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n通知中心0 条未读 · 聚焦材料、反馈和截止风险\n全部已读\n全部\n0\n截止提醒\n0\n教师反馈\n0\n提交动态\n0\n风险提醒\n0\n系统通知\n0\n暂无通知\n\n材料提交、教师反馈和风险提醒会出现在这里。",
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/12-notification-interaction-desktop.png"
+  },
+  {
+    "name": "role-switch",
+    "roleCount": 0,
+    "overflowX": false,
+    "selectedRole": "",
+    "visibleText": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知",
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/13-role-switch-desktop.png"
+  }
+]

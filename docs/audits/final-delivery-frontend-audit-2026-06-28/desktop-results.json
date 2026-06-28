@@ -1,0 +1,189 @@
+[
+  {
+    "route": "01-landing",
+    "clientH": 720,
+    "clientW": 1265,
+    "h1": [
+      "让课程项目像产品一样运转。"
+    ],
+    "hasLoading": false,
+    "hasLogout": false,
+    "hasMockBanner": false,
+    "hasRealtime": false,
+    "hasReset": false,
+    "overflowX": false,
+    "scrollH": 6318,
+    "scrollW": 1265,
+    "text": "UIBE CourseOps\n产品证明\n产品能力\n使用流程\n进入工作台\nCOURSE PROJECT OPERATING SYSTEM\n让课程项目像产品一样运转。\n\n从项目创建、材料流转、教师反馈到审计日志，CourseOps 把期末项目变成一条可展示、可协作、可追踪的工作流。\n\n进入工作台\n查看课程项目\n课程项目\n材料文件\n教师反馈\n审计日志\nMaterial Workflow\n待准备\nER 图\n待提交\n源文件包\n已提交\n截图集\n需修改\n说明书\n已通过\n论文稿\n68%\n材料完成率\nJUN\n25\n最近截止\n说明书正文\n70%\n数据库 ER 图\n待提交\n源代码压缩包\n准备中\nWeb 应用开发\nWeb 期末项目\n2 天后截止\n数据库原理\nER 图实验报告\n高风险\n学术写作\n论文阶段稿\n83% 完成\nONE WORKFLOW\n课程项目、材料提交、教师反馈、审计日志，一条链路完成。\n5 Stages\n\n材料从准备、待提交、已提交、需修改到已通过，状态变化可追踪。\n\nEvery action\n\n上传、反馈、审核、提醒都会进入动态记录，演示也有完整证据链。\n\n3 REASONS TO USE COURSEOPS\n不是管理更多表格，而是让每个课程项目自动进入轨道。\n01\nMaterial Workflow\n\n材料要求、文件上传、状态变化和历史记录合并成一条可演示的流转链。\n\n02\nFeedback Loop\n\n教师反馈直接回到材料详情里，学生处理后状态和动态同步更新。\n\n03\nAudit Timeline\n\n每次上传、审核、提醒都会留下审计证据，讲解时更有说服力。\n\nWORKFLOW STORY\n从发布项目到日志留痕，形成完整业务闭环。\n\nCourseOps 把期末项目最容易失控的材料要求、提交流转、教师反馈和审计日志串成一条可演示的产品链路。\n\n发布项目\n设置材料要求\n学生上传\n教师反馈\n修改提交\n材料通过\n日志留痕\nPRODUCT MOTION SYSTEM\n让 CourseOps 像一个会运转的课程项目引擎。\n\n不再把能力拆成一块块说明卡，而是让项目、材料、反馈和审计在同一个空间里逐步出现，像一部可以滚动观看的产品短片。\n\nCourseOps\nLIVE WORKFLOW\n课程项目\n25\n材料完成率\n68%\n教师反馈\n4\n审计日志\nLive\n01\nPROJECT IGNITION\n课程项目先被点亮\n\n课程、团队、阶段、截止时间和风险聚合成一个运营核心，用户第一眼看到的是完整系统，而不是散落表格。\n\n02\nMATERIAL ORBIT\n材料沿轨道流转\n\n待准备、待提交、已提交、需修改、已通过形成连续路径，材料像能量包一样穿过每个业务站点。\n\n03\nFEEDBACK LOOP\n教师反馈形成闭环\n\n反馈、修订、重新提交和审核状态绑定在同一条链路上，界面表达的是协同推进，而不是静态记录。\n\n04\nAUDIT FIELD\n所有动作留下审计光轨\n\n上传、审核、提醒、通过都进入日志场，演示、验收和后续追踪都有清晰证据。\n\nPRODUCT PROOF NARRATIVE\n不是后台页面堆叠，而是一条能被演示的课程项目运营故事。\n\n每一次滚动都对应一个真实业务阶段：项目创建、材料提交、教师反馈、审计留痕和运营洞察。\n\n01\n项目创建\n\n课程、团队、阶段和风险一屏建立。\n\n02\n材料流转\n\n文件在五个状态之间形成轨道。\n\n03\n教师反馈\n\n反馈绑定材料，状态自动更新。\n\n04\n审计洞察\n\n所有操作进入日志和数据洞察。\n\n68%\n材料完成率\n3\n临期项目\n4\n待反馈材料\n127\n本周提交\nSTART OPERATING\n先处理最重要的材料、反馈和风险。\n\n进入工作台后，系统会按你的角色自动整理今日待办、风险项目、教师反馈和审计动态。\n\n开始使用",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/01-landing-desktop.png"
+  },
+  {
+    "route": "02-login",
+    "clientH": 720,
+    "clientW": 1280,
+    "h1": [
+      "进入课程工作台"
+    ],
+    "hasLoading": false,
+    "hasLogout": false,
+    "hasMockBanner": false,
+    "hasRealtime": false,
+    "hasReset": false,
+    "overflowX": false,
+    "scrollH": 720,
+    "scrollW": 1280,
+    "text": "COURSEOPS LOGIN\n\n进入课程工作台\n\n登录后进入项目、材料、分析和日志。\n\n账号\n密码\n登录\n默认：u-student-001 / 123456\n教师：u-teacher-001 / 123456",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/login?preview=1",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/02-login-desktop.png"
+  },
+  {
+    "route": "03-workspace",
+    "clientH": 720,
+    "clientW": 1265,
+    "h1": [
+      "张同学，今天有 3 项材料需要处理"
+    ],
+    "hasLoading": false,
+    "hasLogout": true,
+    "hasMockBanner": false,
+    "hasRealtime": true,
+    "hasReset": true,
+    "overflowX": false,
+    "scrollH": 1389,
+    "scrollW": 1265,
+    "text": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nINTELLIGENT COCKPIT\n张同学，今天有 3 项材料需要处理\n\n优先处理被退回、临期和待提交材料，系统会把最紧急的事项推到前面。\n\n进入材料流转\n3\n待处理材料\n2\n风险项目\n4\n未读通知\n20%\n材料完成率\nPRIORITY STACK\n今日待办\nP1\n数据库 ER 图\n张同学 · 2026-06-24 · 距离截止不足 24 小时\n待准备\nP2\n说明书正文\n张同学 · 2026-06-25 · 教师反馈未处理\n需修改\nP3\n源代码压缩包\n张同学 · 2026-06-26 · 尚未上传文件\n待提交\nPROJECT PULSE\n我的课程项目\n数据库实验报告待补交 · 2026-06-24\n高风险\nWeb 期末项目材料完善 · 2026-06-25\n临近截止\n课程论文阶段稿教师反馈处理 · 2026-06-28\n正常\n智能提醒\n说明书正文需要优先修改\n\n先处理教师反馈，再重新上传最新版。\n\n立即处理",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/app",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/03-workspace-desktop.png"
+  },
+  {
+    "route": "04-projects",
+    "clientH": 720,
+    "clientW": 1265,
+    "h1": [
+      "课程项目中心"
+    ],
+    "hasLoading": false,
+    "hasLogout": true,
+    "hasMockBanner": false,
+    "hasRealtime": true,
+    "hasReset": true,
+    "overflowX": false,
+    "scrollH": 1886,
+    "scrollW": 1265,
+    "text": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nCOURSE PROJECT PLAZA\n课程项目中心\n\n集中查看课程、团队、材料要求、截止风险和教师反馈，按项目快速定位问题。\n\n3\n活跃项目\n2\n风险项目\n4\n待处理材料\n全部项目\n我的项目\n临近截止\n材料缺口\n高完成度\n按风险、材料缺口和项目进度聚焦当前最需要处理的课程项目。\n数据库原理\n数据库实验报告\n高风险\n\n提交 ER 图、表结构说明和实验报告 PDF。\n\n58%\n健康度\n负责人：张同学\n阶段：待补交\n截止：2026-06-24\n团队完成度：46%\n材料清单预览\n数据库 ER 图\n待准备\n最近反馈\n\nER 图缺少关系说明，请今天补齐。\n\nZ\n进入项目空间\nWeb 应用开发\nWeb 期末项目\n临近截止\n\n完成一个具备项目管理、材料流转和操作审计能力的课程项目平台。\n\n76%\n健康度\n负责人：张同学\n阶段：材料完善\n截止：2026-06-25\n团队完成度：68%\n材料清单预览\n说明书正文\n需修改\n系统截图\n已提交\n源代码压缩包\n待提交\n最近反馈\n\n说明书正文需要补充数据库设计说明。\n\nZ\nL\nW\n进入项目空间\n学术写作\n课程论文阶段稿\n正常\n\n完成二稿修改、引用检查和最终提交记录。\n\n88%\n健康度\n负责人：李同学\n阶段：教师反馈处理\n截止：2026-06-28\n团队完成度：79%\n材料清单预览\n论文二稿\n已通过\n最近反馈\n\n引用格式已基本通过，等待最终确认。\n\nL\n进入项目空间",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/app/projects",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/04-projects-desktop.png"
+  },
+  {
+    "route": "05-project-space",
+    "clientH": 720,
+    "clientW": 1265,
+    "h1": [
+      "Web 期末项目"
+    ],
+    "hasLoading": false,
+    "hasLogout": true,
+    "hasMockBanner": false,
+    "hasRealtime": true,
+    "hasReset": true,
+    "overflowX": false,
+    "scrollH": 1184,
+    "scrollW": 1265,
+    "text": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nWEB 应用开发\nWeb 期末项目\n\n完成一个具备项目管理、材料流转和操作审计能力的课程项目平台。\n\n临近截止\n材料完善\n2026-06-25 截止\n返回项目中心\n进入材料流转\n76%\n健康度\n项目健康核心\n风险原因\n说明书正文处于需修改状态，源码压缩包尚未提交。\n最近反馈\n说明书正文需要补充数据库设计说明。\n团队\nZ\nL\nW\n概览\n材料\n成员\n提交\n反馈\n动态\n项目运行概览\n我的完成度\n72%\n团队完成度\n68%\n关键材料\n说明书正文\n需修改\n系统截图\n已提交\n源代码压缩包\n待提交\n最近动态\n上传文件\n张同学 · 2026-06-23 10:12\n标记已通过\n张老师 · 2026-06-24 20:38:07\n修改材料状态\n张老师 · 2026-06-24 20:38:07\n标记需修改\n张老师 · 2026-06-23 10:20",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/app/projects/p-web-final",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/05-project-space-desktop.png"
+  },
+  {
+    "route": "06-tasks",
+    "clientH": 720,
+    "clientW": 1265,
+    "h1": [
+      "材料流转控制台"
+    ],
+    "hasLoading": false,
+    "hasLogout": true,
+    "hasMockBanner": false,
+    "hasRealtime": true,
+    "hasReset": true,
+    "overflowX": false,
+    "scrollH": 2188,
+    "scrollW": 1265,
+    "text": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\n待准备\n待提交\n已提交\n需修改\n已通过\nMATERIAL WORKFLOW\n材料流转控制台\n\n从待准备到已通过，上传、审核、修改和日志留痕在这里形成一条完整闭环。\n\n1\n待准备\n1\n待提交\n1\n已提交\n1\n需修改\n1\n已通过\nMATERIAL FLOW RAIL\n文件沿业务轨道移动，而不是被放进五个静态盒子。\n\n选中任何材料，轨道、状态站点和右侧控制面板会同步表达它当前所处的步骤。\n\n1\n待准备\n1\n2\n待提交\n1\n3\n已提交\n1\n4\n需修改\n1\n5\n已通过\n1\n待准备\n1\n数据库 ER 图\n待准备\n\n数据库实验报告\n\n张同学\n2026-06-24\n距离截止不足 24 小时\n暂无文件\nPDF\n1 条反馈\n先把材料骨架搭起来\n\n补齐封面、目录和核心截图，再推进下一版。\n\n待提交\n1\n源代码压缩包\n待提交\n\nWeb 期末项目\n\n张同学\n2026-06-26\n尚未上传文件\n暂无文件\nZIP\n1 条反馈\n整理完成后即可提交\n\n统一命名和格式后直接进入上传。\n\n已提交\n1\n系统截图\n已提交\n\nWeb 期末项目\n\n李同学\n2026-06-25\n等待教师确认\ncourseops-screenshots.zip\nZIP\n0 条反馈\n等待教师确认\n\n保持版本可追溯，反馈会直接进入轨道。\n\n需修改\n1\n说明书正文\n需修改\n\nWeb 期末项目\n\n张同学\n2026-06-25\n教师反馈未处理\ncourseops-manual-v2.docx\nDOCX\n2 条反馈\n优先处理高风险修改\n\n按反馈逐条回收问题，修完再重新上传。\n\n已通过\n1\n论文二稿\n已通过\n\n课程论文阶段稿\n\n李同学\n2026-06-28\n已通过\nacademic-writing-v3.docx\nDOCX\n0 条反馈\n材料可归档\n\n可继续补充展示材料，或者进入项目收尾。\n\n材料详情\n说明书正文\n需修改\nDOCX\n上传最新材料文件\n支持 DOCX，单文件不超过 50MB。成功后会写入提交记录、状态历史、操作日志和通知。\n材料要求\n\n包含系统简介、功能说明、截图、数据库设计和技术架构。\n\n必交材料\n2026-06-25 截止\n最新文件：courseops-manual-v2.docx\n上传记录\ncourseops-manual-v2.docx\n张同学 · 2026-06-23 10:12\n请补充项目空间与材料流转说明。\n教师反馈\n张老师\n\n说明书需要补充项目空间与材料流转的操作截图。\n\n状态历史\n上传文件张同学 · 2026-06-23 10:12\n\n文件：courseops-manual-v2.docx\n\n标记已通过张老师 · 2026-06-24 20:38:07\n\nrevision_required → approved\n\n修改材料状态张老师 · 2026-06-24 20:38:07\n\nrevision_required → revision_required\n\n标记需修改张老师 · 2026-06-23 10:20\n\nsubmitted → revision_required\n\n标记需修改\n标记已通过",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/app/tasks",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/06-tasks-desktop.png"
+  },
+  {
+    "route": "07-task-detail",
+    "clientH": 720,
+    "clientW": 1265,
+    "h1": [
+      "材料流转控制台"
+    ],
+    "hasLoading": false,
+    "hasLogout": true,
+    "hasMockBanner": false,
+    "hasRealtime": true,
+    "hasReset": true,
+    "overflowX": false,
+    "scrollH": 1846,
+    "scrollW": 1265,
+    "text": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\n待准备\n待提交\n已提交\n需修改\n已通过\nMATERIAL WORKFLOW\n材料流转控制台\n\n从待准备到已通过，上传、审核、修改和日志留痕在这里形成一条完整闭环。\n\n1\n待准备\n1\n待提交\n1\n已提交\n1\n需修改\n1\n已通过\nMATERIAL FLOW RAIL\n文件沿业务轨道移动，而不是被放进五个静态盒子。\n\n选中任何材料，轨道、状态站点和右侧控制面板会同步表达它当前所处的步骤。\n\n1\n待准备\n1\n2\n待提交\n1\n3\n已提交\n1\n4\n需修改\n1\n5\n已通过\n1\n待准备\n1\n数据库 ER 图\n待准备\n\n数据库实验报告\n\n张同学\n2026-06-24\n距离截止不足 24 小时\n暂无文件\nPDF\n1 条反馈\n先把材料骨架搭起来\n\n补齐封面、目录和核心截图，再推进下一版。\n\n待提交\n1\n源代码压缩包\n待提交\n\nWeb 期末项目\n\n张同学\n2026-06-26\n尚未上传文件\n暂无文件\nZIP\n1 条反馈\n整理完成后即可提交\n\n统一命名和格式后直接进入上传。\n\n已提交\n1\n系统截图\n已提交\n\nWeb 期末项目\n\n李同学\n2026-06-25\n等待教师确认\ncourseops-screenshots.zip\nZIP\n0 条反馈\n等待教师确认\n\n保持版本可追溯，反馈会直接进入轨道。\n\n需修改\n1\n说明书正文\n需修改\n\nWeb 期末项目\n\n张同学\n2026-06-25\n教师反馈未处理\ncourseops-manual-v2.docx\nDOCX\n2 条反馈\n优先处理高风险修改\n\n按反馈逐条回收问题，修完再重新上传。\n\n已通过\n1\n论文二稿\n已通过\n\n课程论文阶段稿\n\n李同学\n2026-06-28\n已通过\nacademic-writing-v3.docx\nDOCX\n0 条反馈\n材料可归档\n\n可继续补充展示材料，或者进入项目收尾。\n\n材料详情\n数据库 ER 图\n待准备\nPDF\n上传最新材料文件\n支持 PDF，单文件不超过 50MB。成功后会写入提交记录、状态历史、操作日志和通知。\n材料要求\n\n展示实体、关系、主键、外键和约束。\n\n必交材料\n2026-06-24 截止\n最新文件：暂无文件\n上传记录\n\n暂无提交记录。\n\n教师反馈\n\n暂无教师反馈。\n\n状态历史\n标记需修改\n标记已通过",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/app/tasks?materialId=m-manual",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/07-task-detail-desktop.png"
+  },
+  {
+    "route": "08-analytics",
+    "clientH": 720,
+    "clientW": 1280,
+    "h1": [],
+    "hasLoading": false,
+    "hasLogout": false,
+    "hasMockBanner": false,
+    "hasRealtime": false,
+    "hasReset": false,
+    "overflowX": false,
+    "scrollH": 720,
+    "scrollW": 1280,
+    "text": "",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/app/analytics",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/08-analytics-desktop.png"
+  },
+  {
+    "route": "09-logs",
+    "clientH": 720,
+    "clientW": 1265,
+    "h1": [
+      "动态记录"
+    ],
+    "hasLoading": false,
+    "hasLogout": true,
+    "hasMockBanner": false,
+    "hasRealtime": true,
+    "hasReset": true,
+    "overflowX": false,
+    "scrollH": 1827,
+    "scrollW": 1265,
+    "text": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知\n4\n学生视角\n教师视角\n管理员视角\n张同学\n重置演示\n退出\nACTIVITY TIMELINE\n动态记录\n\n查看与你相关的提交、反馈、截止提醒和状态变化。\n\n10\n当前记录\n5\n教师操作\n2\n上传事件\n全部操作\n上传文件\n更新材料状态\n提交反馈\n标记通知已读\nToday\n今天发生的上传、审核、反馈和通知事件。\n2026/6/24 20:38:07\n标记需修改\n\n张同学 在 说明书正文 从“需修改”更新为“需修改”\n\n展开\n2026/6/24 20:38:07\n标记已通过\n\n张同学 在 说明书正文 从“需修改”更新为“已通过”\n\n展开\n2026-06-24 20:38:07\n更新材料状态\n\n张老师 在 说明书正文 从“需修改”更新为“需修改”\n\n展开\n2026-06-24 20:38:07\n标记已通过\n\n张老师 在 说明书正文 从“需修改”更新为“已通过”\n\n展开\n2026-06-23 10:20:00\n标记需修改\n\n张老师 在 说明书正文 从“已提交”更新为“需修改”\n\n展开\nYesterday\n昨天仍在影响当前项目节奏的关键动态。\n2026-06-23 10:12:00\n上传文件\n\n张同学 在 说明书正文 从“待提交”更新为“已提交”\n\n展开\n2026-06-23 09:48:00\n上传文件\n\n李同学 在 系统截图 从“待提交”更新为“已提交”\n\n展开\n2026-06-23 09:36:00\n提交反馈\n\n张老师 在 源代码压缩包 从“待提交”更新为“需要运行说明”\n\n展开\n2026-06-23 09:30:00\n审计提醒\n\n系统 在 数据库 ER 图 从“正常”更新为“高风险”\n\n展开\n2026-06-22 16:12:00\n标记通过\n\n王老师 在 论文二稿 从“待确认”更新为“已通过”\n\n展开",
+    "title": "courseops-web",
+    "url": "http://127.0.0.1:5173/app/logs",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-delivery-frontend-audit-2026-06-28/screenshots/09-logs-desktop.png"
+  }
+]

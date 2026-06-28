@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg-page);
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  color: var(--text-primary);
+  background:
+    radial-gradient(circle at 10% 8%, rgba(8, 127, 112, 0.16), transparent 28%),
+    radial-gradient(circle at 82% 12%, rgba(47, 111, 237, 0.12), transparent 30%),
+    radial-gradient(circle at 62% 92%, rgba(183, 121, 31, 0.12), transparent 28%),
+    linear-gradient(180deg, #f8faf8 0%, var(--bg-page) 54%, #f2f4f1 100%);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", "Microsoft YaHei UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.34;
+  background-image:
+    linear-gradient(rgba(20, 23, 22, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(20, 23, 22, 0.028) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: radial-gradient(circle at 50% 18%, #000, transparent 72%);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+a:focus-visible {
+  outline: 3px solid rgba(8, 127, 112, 0.22);
+  outline-offset: 3px;
+}
+
+#app {
+  min-height: 100vh;
+}

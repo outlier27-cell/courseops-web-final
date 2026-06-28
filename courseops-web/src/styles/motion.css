@@ -1,0 +1,28 @@
+.motion-rise {
+  animation: motion-rise var(--motion-slow) both;
+  opacity: 0;
+}
+
+.interactive-lift {
+  transition:
+    transform var(--motion-base),
+    box-shadow var(--motion-base),
+    border-color var(--motion-base),
+    background var(--motion-base);
+}
+
+.interactive-lift:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lift);
+}
+
+@keyframes motion-rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.992);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}

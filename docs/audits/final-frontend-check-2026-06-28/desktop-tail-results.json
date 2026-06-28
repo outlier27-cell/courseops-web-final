@@ -1,0 +1,55 @@
+[
+  {
+    "route": "09-analytics",
+    "clientH": 720,
+    "clientW": 1280,
+    "h1": [
+      "本周 3 个课程项目存在材料缺口"
+    ],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 1636,
+    "scrollW": 1280,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n演示数据\n2026 春季学期\n通知\n2\n学生视角\n教师视角\n管理员视角\n张同学\n当前状态\n后端未连通，页面正在使用本地演示数据。\nhttp://127.0.0.1:8080/api\nOPERATIONAL INSIGHTS\n本周 3 个课程项目存在材料缺口\n\n围绕你的课程项目生成可执行的材料提交建议。\n\n推荐优先处理\n\n数据库原理完成度偏低，ER 图和源码压缩包缺口最高，建议先发提醒再进入材料流转。\n\n进入材料流转\nMATERIAL COMPLETION\n68%\n\n材料完成率是本周最核心的运营信号。\n\nWORKFLOW PROOF\n5\n\n五个材料状态构成统一流转路径。\n\nTRACEABILITY\n127\n\n所有提交和反馈都沉淀为可审计动态。\n\nDECISION FOCUS\n5\n\n临期和需修改材料合并为今日优先事项。\n\nINSIGHT\n近 7 天提交趋势\n\n周末提交明显增加，建议周五前发提醒。\n\n发送提醒\nINSIGHT\n不同课程材料完成度\n\n数据库原理完成度偏低，ER 图缺口最多。\n\n查看数据库项目\nINSIGHT\n风险等级分布\n12\n风险项\n\n高风险项目集中在 Web 应用开发和数据库原理。\n\n查看高风险项目\nINSIGHT\n材料类型缺口分布\n\n数据库设计图和源码压缩包缺口最高。\n\n进入材料流转",
+    "url": "http://127.0.0.1:5173/app/analytics",
+    "visibleButtons": [
+      "CCourseOpsCourse operations system",
+      "工作台今日优先级",
+      "项目课程空间",
+      "材料流转轨道",
+      "洞察运营建议",
+      "审计动态留痕",
+      "通知 2",
+      "进入材料流转",
+      "发送提醒",
+      "查看数据库项目",
+      "查看高风险项目",
+      "进入材料流转"
+    ],
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/09-analytics-desktop.png"
+  },
+  {
+    "route": "10-logs",
+    "clientH": 720,
+    "clientW": 1280,
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 720,
+    "scrollW": 1280,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n2026 春季学期\n通知",
+    "url": "http://127.0.0.1:5173/app/logs",
+    "visibleButtons": [
+      "CCourseOpsCourse operations system",
+      "工作台今日优先级",
+      "项目课程空间",
+      "材料流转轨道",
+      "洞察运营建议",
+      "审计动态留痕",
+      "通知"
+    ],
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/10-logs-desktop.png"
+  }
+]

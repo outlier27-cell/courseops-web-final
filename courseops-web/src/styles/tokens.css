@@ -1,0 +1,54 @@
+:root {
+  --bg-page: #f6f8f5;
+  --bg-page-warm: #fbfcf9;
+  --bg-panel: rgba(255, 255, 255, 0.82);
+  --bg-panel-strong: rgba(255, 255, 255, 0.96);
+  --bg-muted: rgba(17, 24, 39, 0.04);
+  --text-primary: #131716;
+  --text-secondary: #5c6461;
+  --text-tertiary: #88928e;
+  --accent: #087f70;
+  --accent-soft: #dff5ef;
+  --accent-deep: #045f56;
+  --blue: #2f6fed;
+  --blue-soft: #e8f0ff;
+  --amber: #b7791f;
+  --amber-soft: #fff3d7;
+  --red: #c2413b;
+  --red-soft: #ffe6e3;
+  --success: #12805c;
+  --success-soft: #e5f7f0;
+  --border-subtle: rgba(20, 23, 22, 0.065);
+  --border-strong: rgba(20, 23, 22, 0.11);
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+  --radius-2xl: 40px;
+  --shadow-soft: 0 16px 42px rgba(20, 23, 22, 0.07);
+  --shadow-lift: 0 22px 64px rgba(20, 23, 22, 0.10);
+  --shadow-glow: 0 28px 90px rgba(8, 127, 112, 0.16);
+  --shadow-inner: inset 0 1px 0 rgba(255, 255, 255, 0.72);
+  --blur-glass: blur(24px);
+  --motion-fast: 180ms cubic-bezier(.2, .8, .2, 1);
+  --motion-base: 240ms cubic-bezier(.2, .8, .2, 1);
+  --motion-slow: 420ms cubic-bezier(.16, 1, .3, 1);
+
+  /* Backward-compatible aliases for older component CSS. */
+  --color-bg-page: var(--bg-page);
+  --color-bg-soft: var(--bg-page-warm);
+  --color-bg-surface: var(--bg-panel);
+  --color-bg-elevated: var(--bg-panel-strong);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-tertiary: var(--text-tertiary);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-deep);
+  --color-accent-soft: var(--accent-soft);
+  --color-blue: var(--blue);
+  --color-warning: var(--amber);
+  --color-danger: var(--red);
+  --color-success: var(--success);
+  --color-border: var(--border-subtle);
+  --shadow-hover: var(--shadow-lift);
+}

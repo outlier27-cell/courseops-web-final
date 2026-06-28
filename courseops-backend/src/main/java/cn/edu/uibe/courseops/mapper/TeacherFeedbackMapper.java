@@ -1,0 +1,7 @@
+package cn.edu.uibe.courseops.mapper;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import cn.edu.uibe.courseops.entity.TeacherFeedbackEntity;
+
+public interface TeacherFeedbackMapper extends BaseMapper<TeacherFeedbackEntity> {
+}

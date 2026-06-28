@@ -1,0 +1,42 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: courseops-backend
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/courseops?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&useSSL=false
+    username: courseops
+    password: courseops123
+  data:
+    mongodb:
+      uri: mongodb://courseops:courseops123@localhost:27017/courseops_logs?authSource=admin
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 55MB
+
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**/*.xml
+  global-config:
+    banner: false
+    db-config:
+      id-type: input
+  configuration:
+    map-underscore-to-camel-case: true
+
+knife4j:
+  enable: true
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+
+courseops:
+  jwt-secret: "courseops-jwt-secret-key-for-demo-please-change-in-production"
+  upload-dir: "uploads/courseops"
+  allowed-origins:
+    - "http://127.0.0.1:5173"
+    - "http://localhost:5173"

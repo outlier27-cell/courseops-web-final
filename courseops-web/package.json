@@ -1,0 +1,32 @@
+{
+  "name": "courseops-web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@arco-design/web-vue": "^2.57.0",
+    "@vueuse/core": "^14.1.0",
+    "echarts": "^6.0.0",
+    "gsap": "^3.15.0",
+    "lottie-web": "^5.13.0",
+    "lucide-vue-next": "^0.562.0",
+    "pinia": "^3.0.4",
+    "three": "^0.184.0",
+    "vue": "^3.5.34",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.12.3",
+    "@types/three": "^0.184.1",
+    "@vitejs/plugin-vue": "^6.0.6",
+    "@vue/tsconfig": "^0.9.1",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.12",
+    "vue-tsc": "^3.2.8"
+  }
+}

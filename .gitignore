@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+target/
+out/
+build/
+
+# Local runtime logs
+*.log
+
+# Temporary QA/browser artifacts
+tmp/
+courseops-web/tmp/
+tmp_role_specific_plugins/
+
+# Local plugin/cache experiments
+plugins/
+.agents/
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment overrides
+.env
+.env.*
+!.env.example
+
+# Java / Maven local files
+.mvn/wrapper/maven-wrapper.jar
+
+# Vite / frontend cache
+.vite/
+coverage/

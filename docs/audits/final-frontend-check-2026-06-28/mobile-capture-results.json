@@ -1,0 +1,418 @@
+[
+  {
+    "route": "01-landing",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background sand",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "landing-nav",
+        "rect": {
+          "h": 118.6500015258789,
+          "w": 362.3999938964844,
+          "x": 14,
+          "y": 16
+        },
+        "text": "UIBE CourseOps产品证明产品能力使用流程进入工作台"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [
+      "让课程项目像产品一样运转。"
+    ],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 7389,
+    "scrollW": 390,
+    "textSample": "UIBE CourseOps\n产品证明\n产品能力\n使用流程\n进入工作台\nCOURSE PROJECT OPERATING SYSTEM\n让课程项目像产品一样运转。\n\n从项目创建、材料流转、教师反馈到审计日志，CourseOps 把期末项目变成一条可展示、可协作、可追踪的工作流。\n\n进入工作台\n查看课程项目\nMaterial Workflow\n待准备\nER 图\n待提交\n源文件包\n已提交\n截图集\n需修改\n说明书\n已通过\n论文稿\n说明书正文\n70%\n数据库 ER 图\n待提交\n源代码压缩包\n准备中\nWeb 应用开发\nWeb 期末项目\n2 天后截止\n数据库原理\nER 图实验报告\n高风险\n学术写作\n论文阶段稿\n83% 完成\nONE WORKFLOW\n课程项目、材料提交、教师反馈、审计日志，一条链路完成。\n5 Stages\n\n材料从准备、待提交、已提交、需修改到已通过，状态变化可追踪。\n\nEvery action\n\n上传、反馈、审核、提醒都会进入动态记录，演示也有完整证据链。\n\n3 REASONS TO USE COURSEOPS\n不是管理更多表格，而是让每个课程项目自动进入轨道。\n01\nMaterial Workflow\n\n材料要求、文件上传、状态变化和历史记录合并成一条可演示的流转链。\n\n02\nFeedback Loop\n\n教师反馈直接回到材料详情里，学生处理后状态和动态同步更新。\n\n03\nAudit Timeline\n\n每次上传、审核、提醒都会留下审计证据，讲解时更有说服力。\n\nWORKFLOW STORY\n从发布项目到日志留痕，形成完整业务闭环。\n\nCourseOps 把期末项目最容易失控的材料要求、提交流转、教师反馈和审计日志串成一条可演示的产品链路。\n\n发布项目\n设置材料要求\n学生上传\n教师反馈\n修改提交\n材料通过\n日志留痕\nPRODUCT MOTION SYSTEM\n让 CourseOps 像一个会运转的课程项目引擎。\n\n不再把能力拆成一块块说明卡，而是让项目、材料、反馈和审计在同一个空间里逐步出现，像一部可以滚动观看的产品短片。\n\nCourseOps\nLIVE WOR",
+    "url": "http://127.0.0.1:5173/",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/01-landing-mobile.png"
+  },
+  {
+    "route": "02-login",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background aurora",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "side-nav",
+        "rect": {
+          "h": 297.0500183105469,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": "CCourseOpsCourse operations system工作台今日优先级项目课程空间材料流转轨道洞察运营建议审计动态留痕"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 890,
+    "scrollW": 390,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知",
+    "url": "http://127.0.0.1:5173/app",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/02-login-mobile.png"
+  },
+  {
+    "route": "04-workspace",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background aurora",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "side-nav",
+        "rect": {
+          "h": 297.0500183105469,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": "CCourseOpsCourse operations system工作台今日优先级项目课程空间材料流转轨道洞察运营建议审计动态留痕"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 890,
+    "scrollW": 390,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知",
+    "url": "http://127.0.0.1:5173/app",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/04-workspace-mobile.png"
+  },
+  {
+    "route": "05-projects",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background aurora",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "side-nav",
+        "rect": {
+          "h": 297.0500183105469,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": "CCourseOpsCourse operations system工作台今日优先级项目课程空间材料流转轨道洞察运营建议审计动态留痕"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 890,
+    "scrollW": 390,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知",
+    "url": "http://127.0.0.1:5173/app/projects",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/05-projects-mobile.png"
+  },
+  {
+    "route": "06-project-space",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background aurora",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "side-nav",
+        "rect": {
+          "h": 297.0500183105469,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": "CCourseOpsCourse operations system工作台今日优先级项目课程空间材料流转轨道洞察运营建议审计动态留痕"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 890,
+    "scrollW": 390,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知",
+    "url": "http://127.0.0.1:5173/app/projects/p-web-final",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/06-project-space-mobile.png"
+  },
+  {
+    "route": "07-tasks",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background aurora",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "side-nav",
+        "rect": {
+          "h": 297.0500183105469,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": "CCourseOpsCourse operations system工作台今日优先级项目课程空间材料流转轨道洞察运营建议审计动态留痕"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 890,
+    "scrollW": 390,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知",
+    "url": "http://127.0.0.1:5173/app/tasks",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/07-tasks-mobile.png"
+  },
+  {
+    "route": "08-tasks-detail",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background aurora",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "side-nav",
+        "rect": {
+          "h": 297.0500183105469,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": "CCourseOpsCourse operations system工作台今日优先级项目课程空间材料流转轨道洞察运营建议审计动态留痕"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 890,
+    "scrollW": 390,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知",
+    "url": "http://127.0.0.1:5173/app/tasks?materialId=m-manual",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/08-tasks-detail-mobile.png"
+  },
+  {
+    "route": "09-analytics",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background aurora",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "side-nav",
+        "rect": {
+          "h": 297.0500183105469,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": "CCourseOpsCourse operations system工作台今日优先级项目课程空间材料流转轨道洞察运营建议审计动态留痕"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 890,
+    "scrollW": 390,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知",
+    "url": "http://127.0.0.1:5173/app/analytics",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/09-analytics-mobile.png"
+  },
+  {
+    "route": "10-logs",
+    "clientH": 844,
+    "clientW": 390,
+    "fixedEls": [
+      {
+        "cls": "visual-shader-background aurora",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      },
+      {
+        "cls": "side-nav",
+        "rect": {
+          "h": 297.0500183105469,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": "CCourseOpsCourse operations system工作台今日优先级项目课程空间材料流转轨道洞察运营建议审计动态留痕"
+      },
+      {
+        "cls": "",
+        "rect": {
+          "h": 844,
+          "w": 390.3999938964844,
+          "x": 0,
+          "y": 0
+        },
+        "text": ""
+      }
+    ],
+    "h1": [],
+    "hasMojibake": false,
+    "overflowX": false,
+    "scrollH": 890,
+    "scrollW": 390,
+    "textSample": "C\nCourseOps\nCourse operations system\n工作台\n今日优先级\n项目\n课程空间\n材料\n流转轨道\n洞察\n运营建议\n审计\n动态留痕\nCtrl K\n实时后端\n通知",
+    "url": "http://127.0.0.1:5173/app/logs",
+    "logs": [],
+    "screenshot": "D:/Yjw/UIBE课程/课程/Web-Final/docs/audits/final-frontend-check-2026-06-28/screenshots/10-logs-mobile.png"
+  }
+]
